@@ -1,0 +1,16 @@
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment  
+chatbot-env/
+venv/
+env/
+
+# Other Python stuff
+.pytest_cache/
+*.egg-info/
+build/
+dist/

@@ -1,0 +1,29 @@
+{
+  "coconut": {
+    "season": "Year-round in tropical climates; best during monsoon (June-August) for adequate moisture.",
+    "soil": "Well-drained sandy loam or coastal alluvial soils; pH 5.0-8.0.",
+    "watering": "Regular irrigation during dry spells; avoid waterlogging. Mature trees need 100-120 L/week.",
+    "fertilizer": "NPK 12:12:17:2 MgO + micronutrients; apply 1 kg/year of age up to 10 years. Organic compost recommended.",
+    "pests": "Rhinoceros beetle, red palm weevil, coconut mite, leaf-eating caterpillar. Diseases: Root wilt, bud rot.",
+    "yield": "50-80 nuts/tree/year (10-12 tons/ha copra equivalent).",
+    "spacing": "7-9 m between trees (120-200 trees/ha)."
+  },
+  "rice": {
+    "season": "Kharif (June-November) for monsoon-dependent; Rabi (November-March) with irrigation.",
+    "soil": "Clayey loam with good water retention; pH 5.0-6.5. Flood-prone or waterlogged areas suitable.",
+    "watering": "Continuous flooding (5-10 cm water depth) during growth; drain before harvest.",
+    "fertilizer": "NPK 100:50:50 kg/ha + zinc sulfate. Split application: basal, tillering, panicle initiation.",
+    "pests": "Stem borer, brown plant hopper, gall midge. Diseases: Blast, bacterial blight, sheath blight.",
+    "yield": "4-6 tons/ha paddy (varies by variety and irrigation).",
+    "spacing": "20x20 cm for transplanted rice; 15-20 kg seeds/ha for direct seeding."
+  },
+  "rubber": {
+    "season": "Plant at onset of monsoon (May-July) for seedling establishment.",
+    "soil": "Deep, well-drained acidic loams (pH 4.5-6.5); avoid waterlogged or saline soils.",
+    "watering": "Regular irrigation until maturity (3-4 years); drought-tolerant thereafter.",
+    "fertilizer": "NPK 10:10:10 + magnesium; apply 500 g/tree/year initially, increasing to 2 kg for mature trees.",
+    "pests": "Abnormal leaf fall, powdery mildew, bird's eye spot. Pests: Termites, mealybugs.",
+    "yield": "1,500-2,000 kg dry rubber/ha/year after 7-8 years (peak at 20-30 years).",
+    "spacing": "6-7 m between trees (200-450 trees/ha)."
+  }
+}
